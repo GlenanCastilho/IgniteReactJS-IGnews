@@ -11,7 +11,7 @@
 
 <h1>📃 Sobre</h1>
  
-<h4 align="justify"></h4>
+<h4 align="justify">Blog desenvolvido no Ignite de React.js da Rocketseat para aprender Next.js e seus fundamentos, utilizando funções back-end (serverless) para a comunicação com uma plataforma de pagamentos (Stripe), banco de dados (FaunaDB) e o CMS (Prismic CMS).</h4>
 
 <br>
 
