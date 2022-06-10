@@ -53,5 +53,5 @@
   
   Rodar a aplicação:
   <br>
-  $ yarn
+  $ yarn dev
 </h4>
