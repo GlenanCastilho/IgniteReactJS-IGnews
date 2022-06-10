@@ -18,10 +18,15 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
- 
+  <li>axios</li>
+  <li>faunadb</li>
+  <li>typescript</li>
+  <li>faunadb</li>
+  <li>next</li>
+  <li>prismic-dom</li>
+  <li>react-icons</li>
+  <li>sass</li>
+  <li>stripe</li> 
 </ul>
 
 <br>
@@ -48,5 +53,5 @@
   
   Rodar a aplicação:
   <br>
-  $ yarn 
+  $ yarn
 </h4>
