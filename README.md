@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67304453/173259723-665bac35-ff43-4598-9b96-635b4a16b6e2.svg" width="300" >
+  <img src="https://user-images.githubusercontent.com/67304453/173259723-665bac35-ff43-4598-9b96-635b4a16b6e2.svg" width="150" >
 </div>
 
 ##
 
-<img src="" width="1200"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67304453/173259763-4793a425-bc85-4ef4-ac1f-bdd2f3b06543.png" width="700" />
+</div>
 
 <br>
 <br>
